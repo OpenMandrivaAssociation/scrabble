@@ -1,5 +1,5 @@
 %define	version	1.5
-%define release	2mdk
+%define release	%mkrel 2
 
 Summary:	Text Mode Scrabble Word Game
 Name:		scrabble
