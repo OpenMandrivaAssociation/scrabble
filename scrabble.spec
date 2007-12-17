@@ -10,7 +10,6 @@ Group:		Games/Boards
 URL:		http://packages.qa.debian.org/s/scrabble.html
 Source:		%{name}-%{version}.tar.bz2
 Patch0:		scrabble-1.5-hidden-config.patch.bz2
-Buildroot:	%{_tmppath}/%{name}-%{version}-%{release}-buildroot
 BuildRequires:	perl
 BuildArch:	noarch
 
